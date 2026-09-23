@@ -1,0 +1,7 @@
+[project]
+name = "precio-descuento"
+version = "0.1.0"
+description = "Calcula el precio final de un producto con 10% de descuento"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []

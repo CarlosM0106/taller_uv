@@ -1,0 +1,7 @@
+[project]
+name = "edad-futura"
+version = "0.1.0"
+description = "Calcula la edad que tendrá una persona dentro de cinco años"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []

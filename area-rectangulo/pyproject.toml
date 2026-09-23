@@ -1,0 +1,7 @@
+[project]
+name = "area-rectangulo"
+version = "0.1.0"
+description = "Calcula el área de un rectángulo a partir de su base y altura"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []

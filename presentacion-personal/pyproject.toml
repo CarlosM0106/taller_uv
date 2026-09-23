@@ -1,0 +1,7 @@
+[project]
+name = "presentacion-personal"
+version = "0.1.0"
+description = "Solicita nombre, ciudad y programa académico y los presenta en una frase"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
